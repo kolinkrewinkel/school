@@ -8,3 +8,9 @@ License
 ======
 
 *Do not* copy or in any form plagiarize my work. By accessing these documents, you are using them purely as references or examples. There is absolutely no guarantee of the accuracy of the work.
+
+Resources
+======
+
+[Holt Online Math Textbooks](http://my.hrw.com/index.jsp)
+[McDougal Littell (Mostly for language books...)](http://classzone.com/)
